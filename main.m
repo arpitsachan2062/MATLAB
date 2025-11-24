@@ -1,4 +1,4 @@
-%% main.m
+%% main.m  
 disp('Running sample MATLAB 3D project (no Simulink needed)...');
 
 % Generate STL cube
